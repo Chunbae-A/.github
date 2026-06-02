@@ -8,7 +8,6 @@
 |------|--------|
 | 김경민 | <a href="https://github.com/BcKmini">BcKmini</a> |
 | 김다애 | <a href="https://github.com/asiasyouasias">asiasyouasias</a> |
-| 성현석 | <a href="https://github.com/Hyseok176">Hyseok176</a> |
 | 최현준 | <a href="https://github.com/hywznn">hywznn</a> |
 
 ---
